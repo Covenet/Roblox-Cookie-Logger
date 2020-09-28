@@ -1,0 +1,31 @@
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\obj\Debug\netcoreapp3.1\RobloxCookieLogger.AssemblyInfoInputs.cache
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\obj\Debug\netcoreapp3.1\RobloxCookieLogger.AssemblyInfo.cs
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\obj\Debug\netcoreapp3.1\RobloxCookieLogger.csproj.CopyComplete
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\obj\Debug\netcoreapp3.1\RobloxCookieLogger.genruntimeconfig.cache
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\No cap.exe
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\No cap.deps.json
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\No cap.runtimeconfig.json
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\No cap.runtimeconfig.dev.json
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\No cap.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\No cap.pdb
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\Discord.Net.Commands.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\Discord.Net.Core.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\Discord.Net.Rest.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\Discord.Net.Webhook.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\Discord.Net.WebSocket.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\obj\Debug\netcoreapp3.1\RobloxCookieLogger.csproj.CoreCompileInputs.cache
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\obj\Debug\netcoreapp3.1\No cap.dll
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\obj\Debug\netcoreapp3.1\No cap.pdb
+C:\Users\Schmi\Desktop\CookieLogger\netcoreapp3.1\No cap.exe
+C:\Users\Schmi\Desktop\CookieLogger\netcoreapp3.1\No cap.deps.json
+C:\Users\Schmi\Desktop\CookieLogger\netcoreapp3.1\No cap.runtimeconfig.json
+C:\Users\Schmi\Desktop\CookieLogger\netcoreapp3.1\No cap.runtimeconfig.dev.json
+C:\Users\Schmi\Desktop\CookieLogger\netcoreapp3.1\No cap.dll
+C:\Users\Schmi\Desktop\CookieLogger\netcoreapp3.1\No cap.pdb
+C:\Users\Schmi\source\repos\RobloxCookieLogger\RobloxCookieLogger\obj\Debug\netcoreapp3.1\RobloxCookieLogger.csprojAssemblyReference.cache
